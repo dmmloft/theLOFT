@@ -1,8 +1,7 @@
-@import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
-
+@import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
 
 
 
@@ -481,28 +480,19 @@ h6,
 #menu-0 .close-icon::after {
   background-color: #ffffff;
 }
-#header1-1 .mbr-section-title {
-  text-align: center;
-  font-family: 'Oswald', sans-serif;
+#features3-4 H5 {
+  color: #000000;
 }
-#header1-1 .mbr-section-lead {
-  font-size: 30px;
-}
-#social-buttons3-6 .mbr-section-title,
-#social-buttons3-6 .btn-social {
-  color: #fff;
-}
-#pricing-table1-8 .mbr-section__container .mbr-section-title {
-  color: #fff;
-}
-#pricing-table1-8 .mbr-section__container .mbr-section-subtitle {
-  color: #a0a0a0;
-}
-#contacts4-3 DIV {
+#features3-4 SPAN {
   font-family: 'Montserrat', sans-serif;
-  font-size: 48px;
+  font-size: 20px;
   text-align: center;
 }
+#header3-d .mbr-section-title,
+#header3-d .mbr-section-subtitle {
+  text-align: center;
+}
+
 
 #menu-0 .hide-buttons .nav-btn {
   display: none !important;
@@ -571,15 +561,25 @@ h6,
 #menu-0 .close-icon::after {
   background-color: #ffffff;
 }
-#features3-4 H5 {
-  color: #000000;
-}
-#features3-4 SPAN {
-  font-family: 'Montserrat', sans-serif;
-  font-size: 20px;
+#header1-1 .mbr-section-title {
   text-align: center;
+  font-family: 'Oswald', sans-serif;
 }
-#header3-d .mbr-section-title,
-#header3-d .mbr-section-subtitle {
+#header1-1 .mbr-section-lead {
+  font-size: 30px;
+}
+#social-buttons3-6 .mbr-section-title,
+#social-buttons3-6 .btn-social {
+  color: #fff;
+}
+#pricing-table1-8 .mbr-section__container .mbr-section-title {
+  color: #fff;
+}
+#pricing-table1-8 .mbr-section__container .mbr-section-subtitle {
+  color: #a0a0a0;
+}
+#contacts4-3 DIV {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 48px;
   text-align: center;
 }
