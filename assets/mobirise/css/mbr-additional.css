@@ -420,11 +420,11 @@ h6,
   color: #ffffff;
 }
 #menu-0 .navbar-toggler {
-  color: #ffffff;
+  color: #c0a375;
 }
 #menu-0 .link,
 #menu-0 .dropdown-item {
-  color: #ffffff;
+  color: #c0a375;
 }
 #menu-0 .link {
   font-size: 1.05rem;
@@ -441,22 +441,22 @@ h6,
 }
 #menu-0 .link[aria-expanded="true"],
 #menu-0 .dropdown-menu {
-  background: #0e0e0e;
+  background: #e6e6e6;
 }
 #menu-0 .nav-dropdown-sm .link:focus,
 #menu-0 .nav-dropdown-sm .link:hover,
 #menu-0 .nav-dropdown-sm .dropdown-item:focus,
 #menu-0 .nav-dropdown-sm .dropdown-item:hover {
-  background: #202020!important;
+  background: #f7f7f7!important;
 }
 #menu-0 .navbar,
 #menu-0 .nav-dropdown-sm,
 #menu-0 .nav-dropdown-sm .link[aria-expanded="true"],
 #menu-0 .nav-dropdown-sm .dropdown-menu {
-  background: #282828;
+  background: #ffffff;
 }
 #menu-0 .bg-color.transparent .link {
-  color: #ffffff;
+  color: #c0a375;
   transition: none;
 }
 #menu-0 .bg-color.transparent.opened .link {
@@ -478,7 +478,7 @@ h6,
 }
 #menu-0 .close-icon::before,
 #menu-0 .close-icon::after {
-  background-color: #ffffff;
+  background-color: #c0a375;
 }
 #header1-1 .mbr-section-title {
   text-align: center;
@@ -490,6 +490,9 @@ h6,
 #social-buttons3-6 .mbr-section-title,
 #social-buttons3-6 .btn-social {
   color: #fff;
+}
+#social-buttons3-6 .mbr-section-title {
+  font-size: 24px;
 }
 #pricing-table1-8 .mbr-section__container .mbr-section-title {
   color: #fff;
@@ -722,11 +725,11 @@ h6,
   color: #ffffff;
 }
 #menu-10 .navbar-toggler {
-  color: #ffffff;
+  color: #c0a375;
 }
 #menu-10 .link,
 #menu-10 .dropdown-item {
-  color: #ffffff;
+  color: #c0a375;
 }
 #menu-10 .link {
   font-size: 1.05rem;
@@ -743,22 +746,22 @@ h6,
 }
 #menu-10 .link[aria-expanded="true"],
 #menu-10 .dropdown-menu {
-  background: #0e0e0e;
+  background: #e6e6e6;
 }
 #menu-10 .nav-dropdown-sm .link:focus,
 #menu-10 .nav-dropdown-sm .link:hover,
 #menu-10 .nav-dropdown-sm .dropdown-item:focus,
 #menu-10 .nav-dropdown-sm .dropdown-item:hover {
-  background: #202020!important;
+  background: #f7f7f7!important;
 }
 #menu-10 .navbar,
 #menu-10 .nav-dropdown-sm,
 #menu-10 .nav-dropdown-sm .link[aria-expanded="true"],
 #menu-10 .nav-dropdown-sm .dropdown-menu {
-  background: #282828;
+  background: #ffffff;
 }
 #menu-10 .bg-color.transparent .link {
-  color: #ffffff;
+  color: #c0a375;
   transition: none;
 }
 #menu-10 .bg-color.transparent.opened .link {
@@ -780,7 +783,7 @@ h6,
 }
 #menu-10 .close-icon::before,
 #menu-10 .close-icon::after {
-  background-color: #ffffff;
+  background-color: #c0a375;
 }
 #form1-13 .form-control-label {
   color: #232323;
