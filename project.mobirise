@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.11.1",
-    "uniqCompNum": 40,
+    "uniqCompNum": 48,
     "versionPublish": "3.11.1",
     "favicon": "",
     "noImageResize": "",
@@ -165,7 +165,7 @@
           },
           "title": "Welcome to theLOFT",
           "text": "theLOFT is a cloud where you can store your all your files for free.&nbsp;<br>This is the Libary Of Files and Tools",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"http://192.168.0.53:8082/nextcloud\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Go to theLOFT</a>  "
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://userfolders.com:8443\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Go to theLOFT</a>  "
         },
         {
           "_inherit": "social-buttons1",
@@ -242,7 +242,7 @@
           "subtitle": "Choose your style",
           "label1": "HOT!",
           "title1": "STANDARD",
-          "subtitle1": "Description",
+          "subtitle1": "",
           "currency1": "$",
           "price1": "0",
           "period1": "/mo.",
@@ -251,7 +251,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-white btn-white-outline\" data-toolbar=\"-mbrBtnMove\">Free</a>",
           "label2": "HOT!",
           "title2": "BUSINESS",
-          "subtitle2": "Description",
+          "subtitle2": "",
           "currency2": "$",
           "price2": "5",
           "period2": "/mo.",
@@ -260,7 +260,7 @@
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-white btn-white-outline\" data-toolbar=\"-mbrBtnMove\">Buy</a> ",
           "label3": "HOT!",
           "title3": "PREMIUM",
-          "subtitle3": "Description",
+          "subtitle3": "",
           "currency3": "$",
           "price3": "10",
           "period3": "/mo.",
@@ -269,7 +269,7 @@
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-white btn-white-outline\" data-toolbar=\"-mbrBtnMove\">Buy</a>",
           "label4": "HOT!",
           "title4": "ULTIMATE",
-          "subtitle4": "Description",
+          "subtitle4": "",
           "currency4": "$",
           "price4": "15",
           "period4": "/mo.",
@@ -391,10 +391,10 @@
               "color": "#ffffff"
             },
             ".navbar-toggler": {
-              "color": "#ffffff"
+              "color": "#c0a375"
             },
             ".link, .dropdown-item": {
-              "color": "#ffffff"
+              "color": "#c0a375"
             },
             ".link": {
               "font-size": "1.05rem"
@@ -406,16 +406,16 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#0e0e0e"
+              "background": "#e6e6e6"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#202020!important"
+              "background": "#f7f7f7!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#282828"
+              "background": "#ffffff"
             },
             ".bg-color.transparent .link": {
-              "color": "#ffffff",
+              "color": "#c0a375",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -435,7 +435,7 @@
               "color": "#ffffff"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
+              "background-color": "#c0a375"
             }
           },
           "_name": "menu",
@@ -627,15 +627,15 @@
             "Theme"
           ],
           "_name": "header3",
-          "_anchor": "header3-d",
+          "_anchor": "header3-14",
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
             "bgColor": "#fff",
             "showMeta": true
           },
-          "title": "Forums",
-          "meta": "By Richard Yee posted February 14, 2017"
+          "title": "Forum",
+          "meta": "By Richard Yee"
         },
         {
           "_tags": [
@@ -701,10 +701,10 @@
               "color": "#ffffff"
             },
             ".navbar-toggler": {
-              "color": "#ffffff"
+              "color": "#c0a375"
             },
             ".link, .dropdown-item": {
-              "color": "#ffffff"
+              "color": "#c0a375"
             },
             ".link": {
               "font-size": "1.05rem"
@@ -716,16 +716,16 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#0e0e0e"
+              "background": "#e6e6e6"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#202020!important"
+              "background": "#f7f7f7!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#282828"
+              "background": "#ffffff"
             },
             ".bg-color.transparent .link": {
-              "color": "#ffffff",
+              "color": "#c0a375",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -745,7 +745,7 @@
               "color": "#ffffff"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
+              "background-color": "#c0a375"
             }
           },
           "_tags": [
@@ -848,10 +848,10 @@
               "color": "#ffffff"
             },
             ".navbar-toggler": {
-              "color": "#ffffff"
+              "color": "#c0a375"
             },
             ".link, .dropdown-item": {
-              "color": "#ffffff"
+              "color": "#c0a375"
             },
             ".link": {
               "font-size": "1.05rem"
@@ -863,16 +863,16 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#0e0e0e"
+              "background": "#e6e6e6"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#202020!important"
+              "background": "#f7f7f7!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#282828"
+              "background": "#ffffff"
             },
             ".bg-color.transparent .link": {
-              "color": "#ffffff",
+              "color": "#c0a375",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -892,7 +892,7 @@
               "color": "#ffffff"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
+              "background-color": "#c0a375"
             }
           },
           "_tags": [
@@ -1295,6 +1295,11 @@
             "Theme"
           ],
           "_name": "form1",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#232323"
+            }
+          },
           "_anchor": "form1-13",
           "_params": {
             "labelsColor": "#232323",
@@ -1340,12 +1345,7 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">SUBMIT</a>",
-          "_styles": {
-            ".form-control-label": {
-              "color": "#232323"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">SUBMIT</a>"
         }
       ]
     }
